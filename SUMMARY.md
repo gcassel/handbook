@@ -18,6 +18,7 @@
   * [Contributing to the Handbook](guides/contributing.md)
   * [Events](guides/events.md)
   * [Enspiral Values](guides/values.md)
+  * [Facilitating a Contributor Cohort](guides/contributor_cohort.md)
   * [Forms](guides/forms.md)
   * [Github for Beginners](guides/github_for_beginners.md)
   * [Google apps](guides/google_apps.md)
